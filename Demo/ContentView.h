@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ContentView.h
 //  Demo
 //
 //  Created by Mac on 2016/12/25.
@@ -7,10 +7,7 @@
 //
 
 #import <Cocoa/Cocoa.h>
-#import "ContentView.h"
-@interface ViewController : NSViewController
 
-
+@interface ContentView : NSView
 
 @end
-
